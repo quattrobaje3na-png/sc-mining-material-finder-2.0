@@ -1,6 +1,6 @@
 The ultimate 4.X intel tool for the elite Star Citizen miner.
 
-The 4.7.1 STAR CITIZEN MINING MATERIAL FINDER 2.0 has been completely rebuilt from the ground up for the 4.7.1 live build and future additions. 
+The 4.7.2 STAR CITIZEN MINING MATERIAL FINDER 2.0 has been completely rebuilt from the ground up for the 4.7.1 live build and future additions. 
 I have dropped reliance on third-party APIs—this tool such as Regolith, instead it is now powered by a custom compiler that reads raw CIG game data and produces a light file making the app incredibly light and fast. 
 Works great on Desktop & Mobile
 
